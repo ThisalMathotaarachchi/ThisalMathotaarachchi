@@ -1,16 +1,29 @@
-## Hi there 👋
+### 👋 Hi there, I'm Thisal Mathotaarachchi
 
-<!--
-**ThisalMathotaarachchi/ThisalMathotaarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate Information Technology undergraduate pursuing a bachelor's in *Cyber Security*  
+🎓 Currently studying at *Victoria University (via NSBM, Sri Lanka)*  
+💻 I’m learning Python, Java, Ethical Hacking, and Web Development  
+🎯 Dream: To become a world-class Ethical Hacker & an entrepreneur  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills:
+- Python (Beginner)
+- Java (OOP Basics)
+- Linux & Terminal Basics
+- Problem Solving
+- Networking (Basics)
+- Cybersecurity Fundamentals
+
+---
+
+### 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/thisal-mathotaarachchi)
+- 📧 Email: tisalyanuka@gmail.com
+
+---
+
+### ⚡ Fun Fact:
+> I deleted social media and am focused fully on mastering tech, graduating with First Class Honours, and escaping poverty to build a legendary future.
+
+
