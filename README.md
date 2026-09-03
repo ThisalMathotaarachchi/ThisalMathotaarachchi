@@ -1,4 +1,4 @@
-# Hi, I'm YT Mathota R. H.
+# Hi, I'm Y.T.Mathotaarachchi
 
 I'm a **Cybersecurity undergraduate** and **software developer** interested in cybersecurity, automation, backend engineering, and building practical technical systems.
 
