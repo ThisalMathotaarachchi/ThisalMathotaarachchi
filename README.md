@@ -1,29 +1,49 @@
-### 👋 Hi there, I'm Thisal Mathotaarachchi
+# Hi, I'm YT Mathota R. H.
 
-🚀 A passionate Information Technology undergraduate pursuing a bachelor's in *Cyber Security*  
-🎓 Currently studying at *Victoria University (via NSBM, Sri Lanka)*  
-💻 I’m learning Python, Java, Ethical Hacking, and Web Development  
-🎯 Dream: To become a world-class Ethical Hacker & an entrepreneur  
+I'm a **Cybersecurity undergraduate** and **software developer** interested in cybersecurity, automation, backend engineering, and building practical technical systems.
+
+## About Me
+
+* Bachelor of Information Technology — Cyber Security
+* Victoria University | NSBM Green University
+* Interested in **Cybersecurity, Software Engineering, Automation, and AI**
+* Building practical projects across security, backend systems, and automation
+* Currently looking for **graduate, junior, and internship opportunities**
+
+## Technical Skills
+
+**Languages:** Python, JavaScript, Java, SQL, C/C++
+
+**Development:** React, Node.js, Express.js, FastAPI, REST APIs
+
+**Databases:** PostgreSQL, SQLite, Prisma
+
+**Security:** Network Security, Security Monitoring, Vulnerability Analysis, Digital Forensics
+
+**Tools & Platforms:** Linux, Git, GitHub, Docker
+
+## Featured Projects
+
+### GuardUp
+
+Cybersecurity awareness and simulation platform developed as an academic capstone project.
+
+**Tech:** React, Vite, Tailwind CSS, Node.js, Express.js, PostgreSQL, Prisma
+
+### YTM
+
+Autonomous algorithmic trading platform focused on real-time market data, automated strategy execution, risk management, and trading-system reliability.
+
+**Tech:** Python, FastAPI, WebSockets, SQLite
+
+### Omnistrat
+
+Independent software project exploring automation and intelligent system design.
+
+## Currently
+
+I'm focused on developing my cybersecurity and software engineering skills through hands-on projects, technical problem solving, and continuous learning.
 
 ---
 
-### 🧠 Skills:
-- Python (Beginner)
-- Java (OOP Basics)
-- Linux & Terminal Basics
-- Problem Solving
-- Networking (Basics)
-- Cybersecurity Fundamentals
-
----
-
-### 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/thisal-mathotaarachchi)
-- 📧 Email: tisalyanuka@gmail.com
-
----
-
-### ⚡ Fun Fact:
-> I deleted social media and am focused fully on mastering tech, graduating with First Class Honours, and escaping poverty to build a legendary future.
-
-
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/y-t-mathotaarachchi-47957136b/)
